@@ -106,6 +106,8 @@ int main() {
     
     return 0;
 }
+
+
 ##OUTPUT
 ![image](https://github.com/NAVEEN23013059/Linux-Process-API-fork-wait-exec/assets/150319555/2e6753dc-ca9c-482b-9420-ca5a9c264906)
 
